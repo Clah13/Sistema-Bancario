@@ -1,7 +1,7 @@
 # Passo 1: Criar variáveis para representar o saldo e a opção do menu
 
 saldo = 0.0
-opcao = 0 ##
+opcao = 0
 
 # Passo 2: Exibir uma mensagem de boas-vindas e as opções do menu
 

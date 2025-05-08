@@ -1,4 +1,4 @@
-# Passo 1: Criar variáveis para representar o saldo e a opção do menu
+# Passo 1: Criar variáveis para representar o saldo e a opção do menu.
 
 saldo = 1000.0 # Saldo inicial (você pode alterar este valor)
 opcao = 0

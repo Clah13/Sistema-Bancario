@@ -19,8 +19,7 @@ def depositar():
     global saldo #Indica que estamos modificando a variável global saldo
     valor_deposito = float(input("Digite o valor a depositar: R$ "))
     saldo += valor_deposito
-    print(f"Depósito de R${valor_deposito:.2f} realizado com sucesso.")
-
+    print(f"Depósito de R${valor_deposito:.2f} realizado com sucesso!")
 while True:
 
     # Exibir mensagens de boas-vindas e as opções do menu

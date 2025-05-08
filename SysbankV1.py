@@ -65,7 +65,3 @@ elif opcao == 4:
      realizar múltiplas operações sem precisar reiniciar o programa.
      
      '''
-
-    """Terminal pra abrir o prompt de comando
-    Verificar se o Git está instalado com git -v
-    git init - iniciar o repositório (vai aparecer uma pasta de arquivo oculto)"""

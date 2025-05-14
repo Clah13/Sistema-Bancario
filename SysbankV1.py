@@ -58,7 +58,7 @@ elif opcao == 4:
     1 - Eu esqueci de adicionar a linha opcao_str = input("Digite a opção desejada) e ao rodar com uma letra pra testar
     a validação do erro, ficou em um loop infinito já que não tinha uma forma de parar o loop while sem o input.
     
-    2 - Eu confundi a linha opcao = int(opcao_str) pra ficar como opcao_str = int(opcao_str) e ao colocar qualquer número
+    2 - Eu confundi a linha opção = int(opcao_str) pra ficar como opcao_str = int(opcao_str) e ao colocar qualquer número
     o código não rodava os ifs e finalizava o programa.
     
     Uma possível melhoria seria deixar as opções rodando até que o cliete escolha sair do programa, para que ele possa

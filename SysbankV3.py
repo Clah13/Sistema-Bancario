@@ -57,4 +57,4 @@ while True:
 
     elif opcao == 4:
         print("Obrigado por utilizar nosso banco virtual!")
-        break # Sai do laço while, encerrando o programa
+        break # Sai do laço while, encerrando o programa.

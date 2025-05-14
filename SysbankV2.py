@@ -64,4 +64,4 @@ elif opcao == 3:
 
 elif opcao == 4:
 
-    print("Obrigado por utilizar nosso banco virtual!")
+    print("Obrigado por utilizar nosso banco virtual! ")

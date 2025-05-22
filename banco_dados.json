@@ -1,0 +1,30 @@
+{
+    "saldo": 1449.5,
+    "extrato": [
+        {
+            "data_hora": "21/05/2025 20:58:50",
+            "tipo": "Dep\u00f3sito",
+            "valor": 500.0
+        },
+        {
+            "data_hora": "21/05/2025 21:02:13",
+            "tipo": "Saque",
+            "valor": 50.5
+        },
+        {
+            "data_hora": "21/05/2025 21:21:23",
+            "tipo": "Transfer\u00eancia 101010",
+            "valor": -100.0
+        },
+        {
+            "data_hora": "21/05/2025 21:22:03",
+            "tipo": "Dep\u00f3sito",
+            "valor": 120.0
+        },
+        {
+            "data_hora": "21/05/2025 21:22:08",
+            "tipo": "Transfer\u00eancia (CC 112121)",
+            "valor": -20.0
+        }
+    ]
+}

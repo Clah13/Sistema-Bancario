@@ -111,8 +111,8 @@ while True:
         depositar()
     elif opcao == 3:
         sacar()
-    elif opcao == 4:
+    elif opcao == 4: # Adição do extrato no menu
         exibir_extrato()
-    elif opcao == 5:
+    elif opcao == 5: # Opção para sair movida para o último número
         print("Obrigado por utilizar nosso banco virtual!")
         break  # Sai do laço while, encerrando o programa.

@@ -3,6 +3,8 @@
 O roteiro tem como objetivo principal criar um programa que simule as operações realizadas em um sistema bancário.
 Suas atividades são incrementais, em que o primeiro código representa um MVP e os códigos subsequentes representam atualizações das entregas anteriores.
 
+Este roteiro também utiliza métodos de publicação descritos no roteiro anterior (Repositórios e Versionamento.)
+
 > [!important]
 > **Para este programa, o repositório armazenará arquivos de dois roteiros diferentes, mas que representam a continuação do mesmo programa. Os roteiros foram separados em duas seções (de semanas diferentes) para facilitar a entrega do aluno.**
 
@@ -41,3 +43,6 @@ Etapa 6: Persistência de Dados (Básico) [*SysbankV6.py*]
 Etapa 7: Desafio [*SysbankDesafio.py*]
 
 > Implementa a função que faz transferências bancárias, ajusta o menu para acessar a nova opção e adiciona o evento no extrato.
+
+Arquivo Extra: Banco de Dados [*banco_dados.json*]
+> Cópia do arquivo gerado durante testes.
